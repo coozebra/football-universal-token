@@ -1,13 +1,13 @@
 {
-  "name": "FUT3",
+  "name": "FUT - Football Universal Token",
   "version": "1.0.0",
-  "description": "",
+  "description": "Descentralized Token for the Football Ecosystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["FUT", "Token", "Futbol"],
+  "author": "Julio Chamizo",
   "license": "ISC",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
