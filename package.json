@@ -1,5 +1,6 @@
 {
-  "name": "FUT - Football Universal Token",
+  "name": "fut",
+  "private": true,
   "version": "1.0.0",
   "description": "Descentralized Token for the Football Ecosystem",
   "main": "index.js",
